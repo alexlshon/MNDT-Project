@@ -1,10 +1,17 @@
+"""
+This is the initialization file for the mapping natural disasters tweets project webapp. The foundation for this web app is based off the tutorial on the main flask website.
+"""
+
 import os
 from flask import Flask
+
+#Tis allows the use of multiple apps running on one sever for larger projects
 def create_app(test_config=None):
+    #Flask app constructor
     app = Flask(__name__, instance_relative_config=True)
     app.config.from_mapping(
         SECRET_KEY='dev',
-        DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
+        DATABASE=os.path.join(app.instance_path, 'MNDT.sqlite'),
     )
 
     if test_config is None:
@@ -20,9 +27,11 @@ def create_app(test_config=None):
     except OSError:
         pass
 
+    # Import the database code
     from . import db
     db.init_app(app)
 
+    # Import the map blueprint and code
     from . import map
     app.register_blueprint(map.bp)
     app.add_url_rule('/', endpoint = 'map')
