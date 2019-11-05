@@ -26,17 +26,17 @@
             var points =  {
               "type": "FeatureCollection",
               "features": [
-                {% for obj in data %}{% if obj.predicted_relevant != 0%}
+                {% for obj in data %}
                 {
                   "type": "Feature",
                   "properties": {
-                    "tweet": "{{ obj.tweet_text}}"
+                    "tweet": "{{obj['tweet_text']}}"
                   },
                   "geometry": {
                     "type": "Point",
-                    "coordinates": [{{ obj.longitude }}, {{ obj.latitude}}]
+                    "coordinates": [{{ obj['longitude'] }}, {{obj['latitude']}}]
                   }
-                }{% endif %}{% if not loop.last %},{% endif %}
+                }{% if not loop.last %},{% endif %}
                 {% endfor %}
               ]
             };

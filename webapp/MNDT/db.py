@@ -28,6 +28,12 @@ def init_db():
     with current_app.open_resource('./static/schema.sql') as f:
         db.executescript(f.read().decode('utf8'))
 
+    # Initialize the data in the csv
+    with current_app.open_resource('./static/test_file.csv','r')  as f:
+        d = [tuple(line.split(',')) for line in f.read().splitlines()]
+        db.executemany('INSERT INTO posts (\'tweet_text\',\'post_time\',\'origin_long\',\'origin_lat\',\'latitude\',\'longitude\',\'predicted_relevant\') VALUES (?,?,?,?,?,?,?)', d)
+
+    db.commit()
 
 @click.command('init-db')
 @with_appcontext
