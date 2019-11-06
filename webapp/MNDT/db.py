@@ -32,7 +32,7 @@ def init_db():
     # Initializes the data in the csv and places it into the posts table in the sql sever
     with current_app.open_resource('./static/test_file.csv','r')  as f:
         d = [tuple(line.split(',')) for line in f.read().splitlines()]
-        db.executemany('INSERT INTO posts (\'tweet_text\',\'post_time\',\'origin_long\',\'origin_lat\',\'latitude\',\'longitude\',\'predicted_relevant\') VALUES (?,?,?,?,?,?,?)', d)
+        db.executemany('INSERT INTO test (\'tweet_text\',\'post_time\',\'origin_long\',\'origin_lat\',\'latitude\',\'longitude\',\'predicted_relevant\') VALUES (?,?,?,?,?,?,?)', d)
 
     db.commit()
 

@@ -13,7 +13,7 @@ def map():
     posts = db.execute(
     '''
     SELECT  tweet_text, latitude, longitude
-    FROM posts
+    FROM test
     WHERE predicted_relevant = 1
     '''
     ).fetchall()
