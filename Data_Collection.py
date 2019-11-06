@@ -12,9 +12,8 @@ import requests
 import time
 import datetime
 import progressbar
-
-
 import twitter
+
 api = twitter.Api(consumer_key='YfkfmWvtZAz7SS9GHRZzpleNc',
                   consumer_secret='O9sQl3eHtq6EMbKh5vsvLwaaiLXRKNVhfd50mb7yEa83LX6NPK',
                   access_token_key='2453541001-sJHmhzs9LD7y37FIJTuQQDMXEhybFpIqTGuEkHG',
@@ -73,5 +72,5 @@ def searchearthquake():
     return result
 
 
-result is testing set
+
 
