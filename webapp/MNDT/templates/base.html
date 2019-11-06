@@ -2,11 +2,15 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
     <title>{% block title %}{% endblock %}-MNDT</title>
     {% block style %}{% endblock %}
     {% block head_script %}{% endblock %}
   </head>
   <body>
+    <nav>
+      <h1>MNDT</h1>
+    </nav>
     {% block content %}{% endblock %}
   </body>
 </html>
