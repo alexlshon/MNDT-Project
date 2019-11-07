@@ -27,6 +27,11 @@ def create_app(test_config=None):
     except OSError:
         pass
 
+    # Import the modler code
+    from . import modeler as m
+    model = m.modeler(app)
+    model.RFC()
+
     # Import the database code
     from . import db
     db.init_app(app)

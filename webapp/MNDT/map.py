@@ -17,4 +17,13 @@ def map():
     WHERE predicted_relevant = 1
     '''
     ).fetchall()
-    return render_template('map/index.html',data = posts)
+
+    eq = db.execute(
+    '''
+    SELECT  *
+    FROM earthquake
+    WHERE predicted_relavent = 1
+    '''
+    ).fetchall()
+
+    return render_template('map/index.html',test_data = posts, eq_data = eq)

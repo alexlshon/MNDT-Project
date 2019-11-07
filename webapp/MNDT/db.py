@@ -34,7 +34,6 @@ def init_db():
         d = [tuple(line.split(',')) for line in f.read().splitlines()]
         db.executemany('INSERT INTO test (\'tweet_text\',\'post_time\',\'origin_long\',\'origin_lat\',\'latitude\',\'longitude\',\'predicted_relevant\') VALUES (?,?,?,?,?,?,?)', d)
 
-    db.commit()
 
 # This creates the command to initialize the data base from the bash shell
 @click.command('init-db')

@@ -11,9 +11,3 @@ CREATE TABLE test(
   longitude FLOAT NOT NULL,
   predicted_relevant BOOLEAN
 );
-
-CREATE TABLE earthquake(
-  id INTEGER PRIMARY KEY AUTOINCREMENT,
-  latitude FLOAT NOT NULL,
-  longitude FLOAT NOT NULL
-);

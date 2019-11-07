@@ -1,0 +1,389 @@
+,created,text,location,hashtags,locationcoor
+0,2019-11-04 21:18:41,"Ml 2.8 earthquake (automatic) occured at 2019-11-04T21:07:54 UTC, 39km SW of Cohoe, Alaska https://t.co/N6QMMTNbTh","{'type': 'Point', 'coordinates': [60.1553, -151.88]}",[],"60.1536,-151.8777,10mi"
+1,2019-11-04 21:15:03,"2.7 magnitude #earthquake. 39 km from Cohoe, #AK, United States https://t.co/n9WazTCvke","{'type': 'Point', 'coordinates': [60.154, -151.866]}","[Hashtag(Text='earthquake'), Hashtag(Text='AK')]","60.1536,-151.8777,10mi"
+2,2019-11-04 21:14:02,"USGS reports a M2.7 #earthquake 39km SW of Cohoe, Alaska on 11/4/19 @ 21:07:54 UTC https://t.co/3IhTxO0Gd4 #quake","{'type': 'Point', 'coordinates': [60.1535, -151.865]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","60.1536,-151.8777,10mi"
+3,2019-11-04 21:12:38,"Ml 2.7 earthquake (automatic) occured at 2019-11-04T21:07:54 UTC, 39km SW of Cohoe, Alaska https://t.co/N6QMMTNbTh","{'type': 'Point', 'coordinates': [60.1535, -151.865]}",[],"60.1536,-151.8777,10mi"
+0,2019-11-04 19:04:57,"Mww 5.3 earthquake (reviewed) occured at 2019-11-04T18:32:49 UTC, 174km SW of Vaini, Tonga https://t.co/mf7F9x0wUG","{'type': 'Point', 'coordinates': [-22.1757, -176.5294]}",[],"-22.1757,-176.5294,10mi"
+1,2019-11-04 18:53:02,"A 5.4 magnitude earthquake occurred 113.09mi SW of Vaini, Tonga. Details: https://t.co/ABxu5zbefS Map: https://t.co/zvjFRyZ608","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}",[],"-22.1757,-176.5294,10mi"
+2,2019-11-04 18:53:01,"USGS reports a M5.4 #earthquake 182km SW of Vaini, Tonga on 11/4/19 @ 18:32:53 UTC https://t.co/784nZDme8l #quake","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","-22.1757,-176.5294,10mi"
+3,2019-11-04 18:51:51,"Mww 5.4 earthquake (reviewed) occured at 2019-11-04T18:32:53 UTC, 182km SW of Vaini, Tonga https://t.co/mf7F9x0wUG","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}",[],"-22.1757,-176.5294,10mi"
+4,2019-11-04 18:51:41,"5.4 earthquake, 182km SW of Vaini, Tonga. 2019-11-04 06:32:53 at epicenter (19m ago, depth 148km). https://t.co/7vpZLPnZeJ","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}",[],"-22.1757,-176.5294,10mi"
+5,2019-11-04 18:51:36,"【M5.4】AL SUR DE LAS ISLAS FIJI 148.3km 04/11/2019 18:32:53 UTC #Sismo #Terremoto
+(G)https://t.co/YQ2ozsqy2y (USGS)https://t.co/plgQJpymAf","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}","[Hashtag(Text='Sismo'), Hashtag(Text='Terremoto')]","-22.1757,-176.5294,10mi"
+6,2019-11-04 18:51:36,"M5.4 SOUTH OF THE FIJI ISLANDS Depth 148.3km Nov 04, 2019 18:32:53 UTC, Nov 05, 2019 06:32:53 at epicenter https://t.co/Zpi0fkbkv8","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}",[],"-22.1757,-176.5294,10mi"
+7,2019-11-04 18:51:35,"【M5.4】SOUTH OF THE FIJI ISLANDS 148.3km 2019/11/05 03:32:53 JST[UTC+9]
+(G)https://t.co/wKYNJHznnl (USGS)https://t.co/Hd0vt7SouL","{'type': 'Point', 'coordinates': [-22.2271, -176.5776]}",[],"-22.1757,-176.5294,10mi"
+0,2019-11-04 17:13:20,"Mb 4.7 earthquake (reviewed) occured at 2019-11-04T16:25:24 UTC, 49km NW of Piru, Indonesia https://t.co/7szvIYNASv","{'type': 'Point', 'coordinates': [-2.7959, 127.835]}",[],"-2.7959,127.835,10mi"
+1,2019-11-04 16:47:09,"Mb 4.7 earthquake (reviewed) occured at 2019-11-04T16:25:24 UTC, 50km NW of Piru, Indonesia https://t.co/7szvIYNASv","{'type': 'Point', 'coordinates': [-2.8001, 127.825]}",[],"-2.7959,127.835,10mi"
+2,2019-11-04 16:47:02,"USGS reports a M4.7 #earthquake 50km NW of Piru, Indonesia on 11/4/19 @ 16:25:24 UTC https://t.co/ECdQQGysq6 #quake","{'type': 'Point', 'coordinates': [-2.8001, 127.825]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","-2.7959,127.835,10mi"
+0,2019-11-04 16:28:02,"USGS reports a M4.6 #earthquake 104km SE of Shikotan, Russia on 11/4/19 @ 15:52:04 UTC https://t.co/6z5I00u8AV #quake","{'type': 'Point', 'coordinates': [43.2564, 147.7777]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","43.2756,147.766,10mi"
+1,2019-11-04 16:27:01,"Mb 4.6 earthquake (reviewed) occured at 2019-11-04T15:52:04 UTC, 104km SE of Shikotan, Russia https://t.co/Da31gv0CEU","{'type': 'Point', 'coordinates': [43.2564, 147.7777]}",[],"43.2756,147.766,10mi"
+2,2019-11-04 16:26:35,"【M4.6】KURIL ISLANDS 10.0km 2019/11/05 00:52:04JST, 2019/11/04 15:52:04UTC
+(G)https://t.co/TPPNNfadx9 (USGS)https://t.co/dBJO52PuvQ","{'type': 'Point', 'coordinates': [43.2564, 147.7777]}",[],"43.2756,147.766,10mi"
+0,2019-11-04 15:05:13,"California, United States
+MD 2.9 (13 min ago)
+19km 40.30°N 124.47°W
+Nov 4, 2019 14:52:43 UTC
+#earthquake","{'type': 'Point', 'coordinates': [40.3, -124.47]}",[Hashtag(Text='earthquake')],"40.298831899999996,-124.4735031,10mi"
+1,2019-11-04 14:55:23,"Md 2.86 earthquake (automatic) occured at 2019-11-04T14:52:43 UTC, 16km W of Petrolia, CA https://t.co/WaDYO6WLnk","{'type': 'Point', 'coordinates': [40.2988319, -124.4735031]}",[],"40.298831899999996,-124.4735031,10mi"
+2,2019-10-26 22:50:03,"2.3 magnitude #earthquake. 40 km from Ferndale, #CA, United States https://t.co/AP3aD0q7zs","{'type': 'Point', 'coordinates': [40.29, -124.557]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","40.298831899999996,-124.4735031,10mi"
+0,2019-11-04 15:06:19,Felt #earthquake (#lindol) M4.0 strikes 73 km SW of #Olongapo (#Philippines) 16 min ago. Please report to:… https://t.co/TGwm2sHQsh,"{'type': 'Point', 'coordinates': [14.57, 119.66]}","[Hashtag(Text='earthquake'), Hashtag(Text='lindol'), Hashtag(Text='Olongapo'), Hashtag(Text='Philippines')]","14.6051,119.9073,10mi"
+1,2019-11-04 15:19:34,"Mb 4.9 earthquake (reviewed) occured at 2019-11-04T14:50:06 UTC, 33km WSW of Sabang, Philippines https://t.co/zR6sK5YGxM","{'type': 'Point', 'coordinates': [14.5893, 119.9577]}",[],"14.6051,119.9073,10mi"
+2,2019-11-04 15:19:03,"#Warning #Earthquake: 4.9 Ml, 33 Km West-Southwest of Sabang, Philippines. 2019/11/04. #Philippines. More in ONDE a… https://t.co/7e8OdlTZhB","{'type': 'Point', 'coordinates': [14.5893, 119.9577]}","[Hashtag(Text='Warning'), Hashtag(Text='Earthquake'), Hashtag(Text='Philippines')]","14.6051,119.9073,10mi"
+3,2019-11-04 15:19:01,"USGS reports a M4.9 #earthquake 33km WSW of Sabang, Philippines on 11/4/19 @ 14:50:06 UTC https://t.co/yIMnS0Aklg #quake","{'type': 'Point', 'coordinates': [14.5893, 119.9577]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","14.6051,119.9073,10mi"
+4,2019-11-04 15:18:56,"4.9 earthquake, 33km WSW of Sabang, Philippines. 2019-11-04 22:50:06 at epicenter (29m ago, depth 35km). https://t.co/eSU6A1OPWK","{'type': 'Point', 'coordinates': [14.5893, 119.9577]}",[],"14.6051,119.9073,10mi"
+5,2019-11-04 15:18:48,"4.9 earthquake, 33km WSW of Sabang, Philippines. 2019-11-04 22:50:06 at epicenter (29m ago, depth 35km). https://t.co/Y8QmCJwDV8","{'type': 'Point', 'coordinates': [14.5893, 119.9577]}",[],"14.6051,119.9073,10mi"
+6,2019-11-04 15:06:19,Felt #earthquake (#lindol) M4.0 strikes 73 km SW of #Olongapo (#Philippines) 16 min ago. Please report to:… https://t.co/TGwm2sHQsh,"{'type': 'Point', 'coordinates': [14.57, 119.66]}","[Hashtag(Text='earthquake'), Hashtag(Text='lindol'), Hashtag(Text='Olongapo'), Hashtag(Text='Philippines')]","14.6051,119.9073,10mi"
+0,2019-11-04 18:11:02,"Alaska, United States of America
+MB 3.9 (210 min ago)
+11km 52.11°N 173.70°W
+Nov 4, 2019 14:41:10 UTC
+#earthquake https://t.co/SuUG5vYWSq","{'type': 'Point', 'coordinates': [52.11, -173.7]}",[Hashtag(Text='earthquake')],"52.108000000000004,-173.6956,10mi"
+0,2019-11-04 15:00:02,"USGS reports a M4.1 #earthquake 16km SSW of Shingu, Japan on 11/4/19 @ 14:38:47 UTC https://t.co/o4FhMPMrRz #quake","{'type': 'Point', 'coordinates': [33.5887, 135.9257]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","33.5947,135.9341,10mi"
+1,2019-11-04 14:59:25,"Mb 4.1 earthquake (reviewed) occured at 2019-11-04T14:38:47 UTC, 16km SSW of Shingu, Japan https://t.co/fW6auBQtUL","{'type': 'Point', 'coordinates': [33.5887, 135.9257]}",[],"33.5947,135.9341,10mi"
+2,2019-11-04 14:58:48,"4.1 earthquake, 16km SSW of Shingu, Japan. 2019-11-04 23:38:47 at epicenter (20m ago, depth 412km). https://t.co/LqCdeoleWU","{'type': 'Point', 'coordinates': [33.5887, 135.9257]}",[],"33.5947,135.9341,10mi"
+3,2019-11-04 14:58:35,"M4.1 NEAR S. COAST OF WESTERN HONSHU, JAPAN 411.9km Nov 04, 2019 14:38:47 UTC https://t.co/G7Lr9kbvnQ","{'type': 'Point', 'coordinates': [33.5887, 135.9257]}",[],"33.5947,135.9341,10mi"
+4,2019-11-04 14:58:35,"【M4.1】NEAR S. COAST OF WESTERN HONSHU, JAPAN 411.9km 2019/11/04 23:38:47 JST[UTC+9]
+(G)https://t.co/9TOWdVAYiq (USGS)https://t.co/lZnYxmJWwp","{'type': 'Point', 'coordinates': [33.5887, 135.9257]}",[],"33.5947,135.9341,10mi"
+5,2019-10-31 01:29:48,"@TigerWoods @bridgestonegolf Congratulations!
+８２",,[],"33.5947,135.9341,10mi"
+0,2019-11-04 14:27:04,"Alaska, United States of America
+ML 2.6 (78 min ago)
+0km 57.94°N 156.01°W
+Nov 4, 2019 13:09:31 UTC
+#earthquake","{'type': 'Point', 'coordinates': [57.94, -156.01]}",[Hashtag(Text='earthquake')],"57.9394,-156.012,10mi"
+1,2019-11-04 13:18:47,"Ml 2.6 earthquake (automatic) occured at 2019-11-04T13:09:31 UTC, 91km SSE of King Salmon, Alaska https://t.co/P7LNBkbnYz","{'type': 'Point', 'coordinates': [57.9444, -155.9853]}",[],"57.9394,-156.012,10mi"
+2,2019-11-04 13:15:04,"2.5 magnitude #earthquake. 91km SSE of King Salmon, Alaska https://t.co/DwFbN6GtGf","{'type': 'Point', 'coordinates': [57.945, -155.98]}",[Hashtag(Text='earthquake')],"57.9394,-156.012,10mi"
+3,2019-11-04 13:15:02,"USGS reports a M2.5 #earthquake 91km SSE of King Salmon, Alaska on 11/4/19 @ 13:09:31 UTC https://t.co/yLNQah869z #quake","{'type': 'Point', 'coordinates': [57.9446, -155.9801]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","57.9394,-156.012,10mi"
+4,2019-11-04 13:14:45,"Ml 2.5 earthquake (automatic) occured at 2019-11-04T13:09:31 UTC, 91km SSE of King Salmon, Alaska https://t.co/P7LNBkbnYz","{'type': 'Point', 'coordinates': [57.9446, -155.9801]}",[],"57.9394,-156.012,10mi"
+0,2019-11-04 13:41:48,"5.3 earthquake, 79km NNW of Tocopilla, Chile. 2019-11-04 08:03:39 at epicenter (38m ago, depth 26km). https://t.co/KPolgeOJ3U","{'type': 'Point', 'coordinates': [-21.4118, -70.4516]}",[],"-21.4073,-70.491,10mi"
+1,2019-11-04 13:24:26,"M 5.4 (21 min ago)
+45km 21.44°S 70.34°W
+Nov 4, 2019 13:03:41 UTC
+#earthquake","{'type': 'Point', 'coordinates': [-21.44, -70.34]}",[Hashtag(Text='earthquake')],"-21.4073,-70.491,10mi"
+2,2019-11-04 13:24:02,"USGS reports a M5.3 #earthquake 79km NNW of Tocopilla, Chile on 11/4/19 @ 13:03:39 UTC https://t.co/p3qu9l5VgX #quake","{'type': 'Point', 'coordinates': [-21.4118, -70.4516]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","-21.4073,-70.491,10mi"
+3,2019-11-04 13:24:01,"A 5.3 magnitude earthquake occurred 49.09mi NNW of Tocopilla, Chile. Details: https://t.co/zBbJoZvhbP Map: https://t.co/rHwNRtNVsx","{'type': 'Point', 'coordinates': [-21.4118, -70.4516]}",[],"-21.4073,-70.491,10mi"
+4,2019-11-04 13:23:49,"Mb 5.3 earthquake (reviewed) occured at 2019-11-04T13:03:39 UTC, 79km NNW of Tocopilla, Chile https://t.co/nzvd8HDAD6","{'type': 'Point', 'coordinates': [-21.4118, -70.4516]}",[],"-21.4073,-70.491,10mi"
+5,2019-11-04 13:23:36,"【M5.3】OFFSHORE ANTOFAGASTA, CHILE 26.4km 2019/11/04 22:03:39 JST[UTC+9]
+(G)https://t.co/f7I6DdLZNm (USGS)https://t.co/MSugQw9kzo","{'type': 'Point', 'coordinates': [-21.4118, -70.4516]}",[],"-21.4073,-70.491,10mi"
+0,2019-11-04 09:46:24,"Mb 4.5 earthquake (reviewed) occured at 2019-11-04T09:19:55 UTC, 57km SSW of Taltal, Chile https://t.co/QSGFdkY8Lq","{'type': 'Point', 'coordinates': [-25.8585, -70.7577]}",[],"-25.8585,-70.7577,10mi"
+1,2019-11-04 09:46:02,"USGS reports a M4.5 #earthquake 57km SSW of Taltal, Chile on 11/4/19 @ 9:19:55 UTC https://t.co/S9cuwtKyXE #quake","{'type': 'Point', 'coordinates': [-25.8585, -70.7577]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","-25.8585,-70.7577,10mi"
+2,2019-11-04 09:45:54,"【M4.5】OFFSHORE ANTOFAGASTA, CHILE 65.3km 2019/11/04 18:19:55 JST[UTC+9]
+(G)https://t.co/qPpnpDbkk3 (USGS)https://t.co/1eHNsnHt1x","{'type': 'Point', 'coordinates': [-25.8585, -70.7577]}",[],"-25.8585,-70.7577,10mi"
+0,2019-11-04 07:12:33,"Md 2.94 earthquake (reviewed) occured at 2019-11-04T06:16:19 UTC, 62km N of Tierras Nuevas Poniente, Puerto Rico https://t.co/ReJJcGLx3Q","{'type': 'Point', 'coordinates': [19.0288, -66.539]}",[],"19.0733,-66.9203,10mi"
+1,2019-10-31 16:45:01,"MD 2.8 (307 min ago)
+52km 19.11°N 67.10°W
+Oct 31, 2019 11:38:21 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.11, -67.1]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+2,2019-10-30 23:27:02,"MD 2.8 (154 min ago)
+47km 19.20°N 67.10°W
+Oct 30, 2019 20:52:51 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.2, -67.1]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+3,2019-10-30 12:50:29,"ML 2.0 (205 min ago)
+10km 19.17°N 67.12°W
+Oct 30, 2019 09:25:32 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.17, -67.12]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+4,2019-10-30 05:51:02,"MD 2.8 (241 min ago)
+34km 19.03°N 67.08°W
+Oct 30, 2019 01:50:25 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.03, -67.08]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+5,2019-10-30 05:51:02,"MD 2.5 (250 min ago)
+26km 19.12°N 67.13°W
+Oct 30, 2019 01:41:19 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.12, -67.13]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+6,2019-10-30 03:57:02,"MD 3.7 (99 min ago)
+23km 19.12°N 67.13°W
+Oct 30, 2019 02:18:24 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.12, -67.13]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+7,2019-10-30 00:27:01,"ML 2.2 (69 min ago)
+30km 19.17°N 67.10°W
+Oct 29, 2019 23:17:33 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.17, -67.1]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+8,2019-10-29 23:45:02,"MD 2.9 (27 min ago)
+10km 19.13°N 67.11°W
+Oct 29, 2019 23:17:36 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.13, -67.11]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+9,2019-10-29 23:44:35,"Md 2.88 earthquake (reviewed) occured at 2019-10-29T23:17:36 UTC, 69km N of Isabela, Puerto Rico https://t.co/StR1ZLXo9Q","{'type': 'Point', 'coordinates': [19.127, -67.1111]}",[],"19.0733,-66.9203,10mi"
+10,2019-10-28 06:05:04,"MD 2.8 (224 min ago)
+79km 19.05°N 67.11°W
+Oct 28, 2019 02:21:18 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.05, -67.11]}",[Hashtag(Text='earthquake')],"19.0733,-66.9203,10mi"
+0,2019-11-04 08:46:16,"【M4.4】NEAR THE NORTH COAST OF PAPUA, INDONESIA 35.0km 2019/11/04 16:00:08 JST[UTC+9]
+(G)https://t.co/Oto1Yogsa8 (US… https://t.co/MUnddtvfYQ","{'type': 'Point', 'coordinates': [-2.6985, 140.16]}",[],"-2.6985,140.16,10mi"
+1,2019-11-03 23:07:48,Many people think that the life that everyone lives is the same. Not everything that looks open is bad or bad.… https://t.co/8pKofIabtB,"{'type': 'Point', 'coordinates': [-2.57301, 140.6218964]}",[],"-2.6985,140.16,10mi"
+2,2019-11-03 14:32:39,"Remember !!
+Everyone will get wrinkles, so enjoy your day with thanksgiving.
+
+Take By @whenstebay
+
+#Papuansphoto… https://t.co/TEgyB7DdyZ","{'type': 'Point', 'coordinates': [-2.6, 140.617]}",[Hashtag(Text='Papuansphoto')],"-2.6985,140.16,10mi"
+3,2019-11-02 14:49:43,"""@Helenjunet: Who is this chick?
+She looks like “Sabun eater” girl
+
+-Hold my beer https://t.co/0LJ3SYaCTd""","{'type': 'Point', 'coordinates': [-2.5857811, 140.5065241]}",[],"-2.6985,140.16,10mi"
+4,2019-10-30 15:44:50,Mt mlm https://t.co/uDBUYDoZgR,,[],"-2.6985,140.16,10mi"
+5,2019-10-30 15:39:55,@mmbBOY1 Mt mlm,,[],"-2.6985,140.16,10mi"
+6,2019-10-30 08:56:37,"Love Etnic
+
+@whenstebay
+
+#Papuansphoto #papuan #westpapua #anakpapua #prewedding #preweddingphoto #ipdn… https://t.co/ti4jRDucnh","{'type': 'Point', 'coordinates': [-2.57301, 140.6218964]}","[Hashtag(Text='Papuansphoto'), Hashtag(Text='papuan'), Hashtag(Text='westpapua'), Hashtag(Text='anakpapua'), Hashtag(Text='prewedding'), Hashtag(Text='preweddingphoto'), Hashtag(Text='ipdn')]","-2.6985,140.16,10mi"
+7,2019-10-28 04:28:10,This remarkable young man afforded me the great privilege of joining him for his reunion with the #Kombai tribe in… https://t.co/OCv6363jRs,"{'type': 'Point', 'coordinates': [-2.56421871, 140.50441433]}",[Hashtag(Text='Kombai')],"-2.6985,140.16,10mi"
+8,2019-10-28 01:06:20,"Stop Hoax
+#PapuaDamai 
+#papuakondusif 
+#PapuaIndonesia https://t.co/ZLUcS8xxcA",,"[Hashtag(Text='PapuaDamai'), Hashtag(Text='papuakondusif'), Hashtag(Text='PapuaIndonesia')]","-2.6985,140.16,10mi"
+0,2019-11-04 07:12:33,"Md 2.94 earthquake (reviewed) occured at 2019-11-04T06:16:19 UTC, 62km N of Tierras Nuevas Poniente, Puerto Rico https://t.co/ReJJcGLx3Q","{'type': 'Point', 'coordinates': [19.0288, -66.539]}",[],"19.0288,-66.539,10mi"
+0,2019-11-04 04:51:01,"California, United States of America
+MD 2.5 (5 min ago)
+8km 36.60°N 121.20°W
+Nov 4, 2019 04:45:32 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.6, -121.2]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+1,2019-11-04 04:50:03,"2.5 magnitude #earthquake. 22 km from Soledad, #CA, United States https://t.co/6H4LCrZj0L","{'type': 'Point', 'coordinates': [36.596, -121.202]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+2,2019-11-04 04:50:00,"California, United States of America
+MD 2.5 (4 min ago)
+8km 36.60°N 121.20°W
+Nov 4, 2019 04:45:32 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.6, -121.2]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+3,2019-11-04 04:48:01,"USGS reports a M2.48 #earthquake 9km NW of Pinnacles, CA on 11/4/19 @ 4:45:32 UTC https://t.co/PpcFjxU5Xk #quake","{'type': 'Point', 'coordinates': [36.5961685, -121.2016678]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+4,2019-11-04 04:47:49,"Md 2.48 earthquake (automatic) occured at 2019-11-04T04:45:32 UTC, 9km NW of Pinnacles, CA https://t.co/hm1JYzElzH","{'type': 'Point', 'coordinates': [36.5961685, -121.2016678]}",[],"36.5961685,-121.20166780000001,10mi"
+5,2019-11-03 22:45:03,"2.0 magnitude #earthquake. 15 km from Ridgemark, #CA, United States https://t.co/wnmULOzZfE","{'type': 'Point', 'coordinates': [36.682, -121.334]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+6,2019-11-03 03:47:40,@chrisjcowart Yes! They are great! Transparency mode works great for riding.,,[],"36.5961685,-121.20166780000001,10mi"
+7,2019-11-02 12:50:04,"2.4 magnitude #earthquake. 22 km from Soledad, #CA, United States https://t.co/t8oCRShneJ","{'type': 'Point', 'coordinates': [36.574, -121.165]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+8,2019-11-02 12:50:02,"USGS reports a M2.4 #earthquake 5km NNW of Pinnacles, CA on 11/2/19 @ 12:46:42 UTC https://t.co/QzrbjRMZ9p #quake","{'type': 'Point', 'coordinates': [36.5740013, -121.1650009]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+9,2019-11-02 12:49:02,"California, United States of America
+MD 2.4 (2 min ago)
+3km 36.57°N 121.17°W
+Nov 2, 2019 12:46:42 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.57, -121.17]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+10,2019-11-02 12:20:04,"1.6 magnitude #earthquake. 22 km from Soledad, #CA, United States https://t.co/tOMctILtim","{'type': 'Point', 'coordinates': [36.574, -121.17]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+11,2019-11-02 12:17:02,"USGS reports a M1.59 #earthquake 5km NNW of Pinnacles, CA on 11/2/19 @ 12:14:41 UTC https://t.co/yPwlDksFCk #quake","{'type': 'Point', 'coordinates': [36.5738335, -121.1699982]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+12,2019-11-01 22:40:05,"1.8 magnitude #earthquake. 20 km from #Gonzales, CA, United States https://t.co/yRHxX249T6","{'type': 'Point', 'coordinates': [36.638, -121.287]}","[Hashtag(Text='earthquake'), Hashtag(Text='Gonzales')]","36.5961685,-121.20166780000001,10mi"
+13,2019-11-01 22:20:04,"1.8 magnitude #earthquake. 18 km from Gonzales, #CA, United States https://t.co/CqWkZf8jC9","{'type': 'Point', 'coordinates': [36.637, -121.318]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+14,2019-11-01 08:50:03,"1.8 magnitude #earthquake. 21 km from Ridgemark, #CA, United States https://t.co/PIc2EUqTgB","{'type': 'Point', 'coordinates': [36.642, -121.261]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+15,2019-11-01 08:49:02,"USGS reports a M1.81 #earthquake 16km NW of Pinnacles, CA on 11/1/19 @ 8:45:57 UTC https://t.co/QKPRawJJwb #quake","{'type': 'Point', 'coordinates': [36.6419983, -121.2613297]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+16,2019-10-30 16:05:04,"2.4 magnitude #earthquake. 22 km from Soledad, #CA, United States https://t.co/fJFA1fqFTu","{'type': 'Point', 'coordinates': [36.59, -121.186]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+17,2019-10-30 16:05:02,"USGS reports a M2.39 #earthquake 8km NNW of Pinnacles, CA on 10/30/19 @ 16:01:30 UTC https://t.co/DAM0Eu920c #quake","{'type': 'Point', 'coordinates': [36.5896683, -121.1858368]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+18,2019-10-30 16:05:02,"California, United States of America
+MD 2.4 (4 min ago)
+4km 36.59°N 121.19°W
+Oct 30, 2019 16:01:30 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.59, -121.19]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+19,2019-10-29 16:11:37,"Estimated population in the felt area: 660,000 inhabitants https://t.co/KYaWxjqsKV","{'type': 'Point', 'coordinates': [36.67, -121.29]}",[],"36.5961685,-121.20166780000001,10mi"
+20,2019-10-29 16:11:33,Map of felt reports received so far following the #earthquake M3.8 in Central California 50 min ago https://t.co/ZAScq4gy52,"{'type': 'Point', 'coordinates': [36.67, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+21,2019-10-29 16:02:16,"Mw 3.75 earthquake (reviewed) occured at 2019-10-29T15:21:16 UTC, 14km S of Tres Pinos, CA https://t.co/nWfNrW16I9","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+22,2019-10-29 15:35:07,Thousand Trails #earthquake #california #sismo #salinas is trending on Socialhood. See more at… https://t.co/PyIEkfQUJR,"{'type': 'Point', 'coordinates': [36.69201317, -121.29373538]}","[Hashtag(Text='earthquake'), Hashtag(Text='california'), Hashtag(Text='sismo'), Hashtag(Text='salinas')]","36.5961685,-121.20166780000001,10mi"
+23,2019-10-29 15:30:04,"3.9 magnitude #earthquake. 18 km from Ridgemark, CA, #UnitedStates https://t.co/t9ZTwr6rux","{'type': 'Point', 'coordinates': [36.665, -121.294]}","[Hashtag(Text='earthquake'), Hashtag(Text='UnitedStates')]","36.5961685,-121.20166780000001,10mi"
+24,2019-10-29 15:28:07,M3.9 #earthquake (#sismo) strikes 33 km E of #Salinas (#California) 7 min ago. Read eyewitnesses' stories &amp; share y… https://t.co/cFnqPVMuXz,"{'type': 'Point', 'coordinates': [36.67, -121.29]}","[Hashtag(Text='earthquake'), Hashtag(Text='sismo'), Hashtag(Text='Salinas'), Hashtag(Text='California')]","36.5961685,-121.20166780000001,10mi"
+25,2019-10-29 15:28:04,M3.9 #earthquake (#sismo) strikes 33 km E of #Salinas (#California) 7 min ago. Effects reported by eyewitnesses: https://t.co/YITzBscHFO,"{'type': 'Point', 'coordinates': [36.67, -121.29]}","[Hashtag(Text='earthquake'), Hashtag(Text='sismo'), Hashtag(Text='Salinas'), Hashtag(Text='California')]","36.5961685,-121.20166780000001,10mi"
+26,2019-10-29 15:27:55,"Mw 3.86 earthquake (reviewed) occured at 2019-10-29T15:21:16 UTC, 14km S of Tres Pinos, CA https://t.co/nWfNrW16I9","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+27,2019-10-29 15:27:06,"California, United States of America
+ML 4.0 (6 min ago)
+8km 36.67°N 121.29°W
+Oct 29, 2019 15:21:16 UTC
+#earthquake https://t.co/XjgGG3NHTM","{'type': 'Point', 'coordinates': [36.67, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+28,2019-10-29 15:26:54,"Mw 3.86 earthquake (automatic) occured at 2019-10-29T15:21:16 UTC, 14km S of Tres Pinos, CA https://t.co/nWfNrW16I9","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+29,2019-10-29 15:26:03,"Light 4.02 earthquake: 08:21:16 on 10/29. Loc: 8.7mi S of Tres Pinos, CA. Depth: 5.0 mi https://t.co/dGjBBl2FfH","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+30,2019-10-29 15:25:54,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (5m ago, depth 8km). https://t.co/1sWBCMk5Um","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+31,2019-10-29 15:25:53,"Ml 4.02 earthquake (automatic) occured at 2019-10-29T15:21:16 UTC, 14km S of Tres Pinos, CA https://t.co/nWfNrW16I9","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+32,2019-10-29 15:25:47,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (5m ago, depth 8km). https://t.co/ZvqC58BDVN","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+33,2019-10-29 15:25:40,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (5m ago, depth 8km). https://t.co/doTISzXpGV","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+34,2019-10-29 15:25:33,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (5m ago, depth 8km). https://t.co/kakLgedZSa","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+35,2019-10-29 15:25:19,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (4m ago, depth 8km). https://t.co/0GypfxPkQE","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+36,2019-10-29 15:25:12,"4.0 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 07:21:16 at epicenter (4m ago, depth 8km). https://t.co/juO4A5EWtt","{'type': 'Point', 'coordinates': [36.665333, -121.294]}",[],"36.5961685,-121.20166780000001,10mi"
+37,2019-10-29 15:25:08,"【M4.0】CENTRAL CALIFORNIA 8.0km 2019/10/30 00:21:16JST, 2019/10/29 15:21:16UTC
+(G)https://t.co/2gWd0rpW91 (USGS)https://t.co/oZXWYGlyWb","{'type': 'Point', 'coordinates': [36.6653328, -121.2939987]}",[],"36.5961685,-121.20166780000001,10mi"
+38,2019-10-29 15:25:07,Get our free LastQuake app for real time #earthquake info! Share your experience and read others https://t.co/Uw9AT2vOAP,"{'type': 'Point', 'coordinates': [36.67, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+39,2019-10-29 15:25:04,Felt #earthquake (#sismo) M4.0 strikes 33 km E of #Salinas (#California) 4 min ago. Please report to:… https://t.co/8Kir6TrTjW,"{'type': 'Point', 'coordinates': [36.67, -121.29]}","[Hashtag(Text='earthquake'), Hashtag(Text='sismo'), Hashtag(Text='Salinas'), Hashtag(Text='California')]","36.5961685,-121.20166780000001,10mi"
+40,2019-10-29 12:40:04,"1.6 magnitude #earthquake. 22 km from Soledad, #CA, United States https://t.co/eHiSVwO2L7","{'type': 'Point', 'coordinates': [36.596, -121.197]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+41,2019-10-29 12:40:02,"USGS reports a M1.61 #earthquake 9km NW of Pinnacles, CA on 10/29/19 @ 12:36:56 UTC https://t.co/nr6q7wIZYE #quake","{'type': 'Point', 'coordinates': [36.595665, -121.1968307]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+42,2019-10-29 09:50:04,"3.2 magnitude #earthquake. 18 km from Ridgemark, #CA, United States https://t.co/ErFjHQKcZK","{'type': 'Point', 'coordinates': [36.661, -121.288]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+43,2019-10-29 09:50:03,"1.9 magnitude #earthquake. 18 km from Ridgemark, #CA, United States https://t.co/psPXbBWLon","{'type': 'Point', 'coordinates': [36.66, -121.285]}","[Hashtag(Text='earthquake'), Hashtag(Text='CA')]","36.5961685,-121.20166780000001,10mi"
+44,2019-10-29 09:46:39,"Ml 3.18 earthquake (automatic) occured at 2019-10-29T09:42:51 UTC, 15km S of Tres Pinos, CA https://t.co/3P921QHq64","{'type': 'Point', 'coordinates': [36.6604996, -121.2884979]}",[],"36.5961685,-121.20166780000001,10mi"
+45,2019-10-29 09:45:53,"3.2 earthquake, 15km S of Tres Pinos, CA. 2019-10-29 01:42:51 at epicenter (3m ago, depth 5.6km). https://t.co/E4HUtbstr9","{'type': 'Point', 'coordinates': [36.6605, -121.2885]}",[],"36.5961685,-121.20166780000001,10mi"
+46,2019-10-29 09:45:45,"3.2 earthquake, 15km S of Tres Pinos, CA. 2019-10-29 01:42:51 at epicenter (3m ago, depth 5.6km). https://t.co/wNXUCoszNw","{'type': 'Point', 'coordinates': [36.6605, -121.2885]}",[],"36.5961685,-121.20166780000001,10mi"
+47,2019-10-29 09:40:04,"3.5 magnitude #earthquake. 18 km from #Ridgemark, CA, United States https://t.co/hJml7s00AJ","{'type': 'Point', 'coordinates': [36.664, -121.29]}","[Hashtag(Text='earthquake'), Hashtag(Text='Ridgemark')]","36.5961685,-121.20166780000001,10mi"
+48,2019-10-29 09:38:46,"3.5 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 01:34:12 at epicenter (5m ago, depth 7.6km). https://t.co/76OMrLzEct","{'type': 'Point', 'coordinates': [36.6635, -121.29034]}",[],"36.5961685,-121.20166780000001,10mi"
+49,2019-10-29 09:38:39,"3.5 earthquake, 14km S of Tres Pinos, CA. 2019-10-29 01:34:12 at epicenter (4m ago, depth 7.6km). https://t.co/jEZpw0NIY5","{'type': 'Point', 'coordinates': [36.6635, -121.29034]}",[],"36.5961685,-121.20166780000001,10mi"
+50,2019-10-29 09:38:04,"Minor 3.49 earthquake: 02:34:12 on 10/29. Loc: 8.7mi S of Tres Pinos, CA. Depth: 4.7 mi https://t.co/u0q4J8YxDA","{'type': 'Point', 'coordinates': [36.6635017, -121.2903366]}",[],"36.5961685,-121.20166780000001,10mi"
+51,2019-10-29 09:37:33,"Ml 3.49 earthquake (automatic) occured at 2019-10-29T09:34:12 UTC, 14km S of Tres Pinos, CA https://t.co/QWhcMc0ciH","{'type': 'Point', 'coordinates': [36.6635017, -121.2903366]}",[],"36.5961685,-121.20166780000001,10mi"
+52,2019-10-29 09:37:02,"California, United States of America
+ML 3.5 (3 min ago)
+8km 36.66°N 121.29°W
+Oct 29, 2019 09:34:12 UTC
+#earthquake https://t.co/zSOppE17BF","{'type': 'Point', 'coordinates': [36.66, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+53,2019-10-29 09:35:04,"2.3 magnitude #earthquake. 18 km from #Ridgemark, CA, United States https://t.co/oNDTLTcfvn","{'type': 'Point', 'coordinates': [36.664, -121.29]}","[Hashtag(Text='earthquake'), Hashtag(Text='Ridgemark')]","36.5961685,-121.20166780000001,10mi"
+54,2019-10-29 09:34:00,"California, United States of America
+MD 2.3 (3 min ago)
+6km 36.66°N 121.29°W
+Oct 29, 2019 09:30:48 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.66, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+55,2019-10-29 09:33:16,"California, United States of America
+MD 2.3 (2 min ago)
+6km 36.66°N 121.29°W
+Oct 29, 2019 09:30:48 UTC
+#earthquake","{'type': 'Point', 'coordinates': [36.66, -121.29]}",[Hashtag(Text='earthquake')],"36.5961685,-121.20166780000001,10mi"
+56,2019-10-28 21:41:01,"USGS reports a M1.49 #earthquake 17km NW of Pinnacles, CA on 10/28/19 @ 21:37:52 UTC https://t.co/VBAoJTTRJF #quake","{'type': 'Point', 'coordinates': [36.6198349, -121.2963333]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","36.5961685,-121.20166780000001,10mi"
+0,2019-10-31 22:15:02,"MD 3.1 (84 min ago)
+14km 19.28°N 67.38°W
+Oct 31, 2019 20:51:05 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.28, -67.38]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+1,2019-10-31 04:19:01,"MD 3.4 (20 min ago)
+56km 19.26°N 67.63°W
+Oct 31, 2019 03:59:30 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.26, -67.63]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+2,2019-10-31 04:18:49,"Md 3.36 earthquake (reviewed) occured at 2019-10-31T03:59:30 UTC, 101km NNW of San Antonio, Puerto Rico https://t.co/rlFQq2Yr9u","{'type': 'Point', 'coordinates': [19.2591, -67.6328]}",[],"19.2816,-67.4721,10mi"
+3,2019-10-31 04:18:01,"USGS reports a M3.36 #earthquake 101km NNW of San Antonio, Puerto Rico on 10/31/19 @ 3:59:30 UTC https://t.co/6bIq6ZGmDC #quake","{'type': 'Point', 'coordinates': [19.2591, -67.6328]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","19.2816,-67.4721,10mi"
+4,2019-10-30 22:47:02,"ML 2.0 (155 min ago)
+35km 19.23°N 67.18°W
+Oct 30, 2019 20:11:40 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.23, -67.18]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+5,2019-10-30 20:49:27,"Md 2.77 earthquake (reviewed) occured at 2019-10-30T20:11:41 UTC, 79km NNW of Isabela, Puerto Rico https://t.co/Yk61NCeSz3","{'type': 'Point', 'coordinates': [19.2013, -67.194]}",[],"19.2816,-67.4721,10mi"
+6,2019-10-30 20:49:01,"MD 2.8 (37 min ago)
+37km 19.20°N 67.19°W
+Oct 30, 2019 20:11:41 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.2, -67.19]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+7,2019-10-30 00:33:01,"ML 2.6 (44 min ago)
+22km 19.20°N 67.17°W
+Oct 29, 2019 23:48:56 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.2, -67.17]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+8,2019-10-30 00:32:02,"Md 2.92 earthquake (reviewed) occured at 2019-10-29T23:48:56 UTC, 78km N of San Antonio, Puerto Rico https://t.co/dyJ4KVo2qT","{'type': 'Point', 'coordinates': [19.2621, -67.2986]}",[],"19.2816,-67.4721,10mi"
+9,2019-10-30 00:06:03,"USGS reports a M2.92 #earthquake 87km NNW of San Antonio, Puerto Rico on 10/29/19 @ 23:48:56 UTC https://t.co/TEs0HQ1are #quake","{'type': 'Point', 'coordinates': [19.2621, -67.2986]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","19.2816,-67.4721,10mi"
+10,2019-10-30 00:05:47,"Md 2.92 earthquake (reviewed) occured at 2019-10-29T23:48:56 UTC, 87km NNW of San Antonio, Puerto Rico https://t.co/dyJ4KVo2qT","{'type': 'Point', 'coordinates': [19.2621, -67.2986]}",[],"19.2816,-67.4721,10mi"
+11,2019-10-30 00:05:02,"MD 2.9 (16 min ago)
+7km 19.26°N 67.30°W
+Oct 29, 2019 23:48:56 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.26, -67.3]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+12,2019-10-28 06:53:04,"MD 2.6 (138 min ago)
+30km 19.30°N 67.40°W
+Oct 28, 2019 04:35:14 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.3, -67.4]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+13,2019-10-28 06:05:03,"MD 2.6 (277 min ago)
+26km 19.26°N 67.28°W
+Oct 28, 2019 01:28:07 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.26, -67.28]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+14,2019-10-27 18:31:02,"MD 2.7 (287 min ago)
+50km 19.24°N 67.35°W
+Oct 27, 2019 13:43:34 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.24, -67.35]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+15,2019-10-27 03:55:49,"Md 2.69 earthquake (reviewed) occured at 2019-10-27T03:08:47 UTC, 92km NNW of San Antonio, Puerto Rico https://t.co/1S9J1KmbPX","{'type': 'Point', 'coordinates': [19.3303, -67.3936]}",[],"19.2816,-67.4721,10mi"
+16,2019-10-27 03:51:02,"MD 2.7 (42 min ago)
+21km 19.33°N 67.39°W
+Oct 27, 2019 03:08:47 UTC
+#earthquake","{'type': 'Point', 'coordinates': [19.33, -67.39]}",[Hashtag(Text='earthquake')],"19.2816,-67.4721,10mi"
+17,2019-10-27 03:51:02,"USGS reports a M2.69 #earthquake 97km NNW of San Antonio, Puerto Rico on 10/27/19 @ 3:08:47 UTC https://t.co/VniHCPFCvw #quake","{'type': 'Point', 'coordinates': [19.3303, -67.3936]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","19.2816,-67.4721,10mi"
+18,2019-10-27 03:50:46,"Md 2.69 earthquake (reviewed) occured at 2019-10-27T03:08:47 UTC, Puerto Rico region https://t.co/1S9J1KmbPX","{'type': 'Point', 'coordinates': [19.3303, -67.3936]}",[],"19.2816,-67.4721,10mi"
+0,2019-10-30 15:21:02,"Montana, United States of America
+ML 2.7 (22 min ago)
+13km 46.90°N 112.53°W
+Oct 30, 2019 14:59:13 UTC
+#earthquake","{'type': 'Point', 'coordinates': [46.9, -112.53]}",[Hashtag(Text='earthquake')],"46.8886667,-112.53116670000001,10mi"
+1,2019-10-30 15:20:03,"2.7 magnitude #earthquake. 13 km from #Lincoln, MT, United States https://t.co/V8u3Eey2h5","{'type': 'Point', 'coordinates': [46.901, -112.527]}","[Hashtag(Text='earthquake'), Hashtag(Text='Lincoln')]","46.8886667,-112.53116670000001,10mi"
+2,2019-10-30 15:19:19,"Ml 2.66 earthquake (reviewed) occured at 2019-10-30T14:59:13 UTC, 13km ESE of Lincoln, Montana https://t.co/piZaSBvf4X","{'type': 'Point', 'coordinates': [46.9005, -112.527]}",[],"46.8886667,-112.53116670000001,10mi"
+3,2019-10-30 15:19:02,"USGS reports a M2.66 #earthquake 13km ESE of Lincoln, Montana on 10/30/19 @ 14:59:13 UTC https://t.co/6p2lQvpSqK #quake","{'type': 'Point', 'coordinates': [46.9005, -112.527]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","46.8886667,-112.53116670000001,10mi"
+0,2019-11-04 21:05:07,"#wordsprint spot of the day. It’s a race against the ⏰ and 🦟 s! 
+#writerscommunity #NaNoWriMo2019 https://t.co/HbWlI9406f",,"[Hashtag(Text='wordsprint'), Hashtag(Text='writerscommunity'), Hashtag(Text='NaNoWriMo2019')]","18.572,-65.7898,10mi"
+1,2019-11-03 19:22:46,I’m about to block Mac ass he letting my kids see my ig from his😏😒😤,,[],"18.572,-65.7898,10mi"
+2,2019-11-03 17:42:37,Gino has been found safe and sound! 😍😍😍💕💕💕💖💖💖🎉🎉🎉 Thanks to everyone who has shown their concern and shared our post… https://t.co/gPPfIkvRWg,,[],"18.572,-65.7898,10mi"
+3,2019-11-03 15:40:30,Annabelle x Leatherface 💘💘❤ A serial killer and a Possess doll the perfect couple 😍😍😍 #guanchaween 2019… https://t.co/XUeVTiWG7u,"{'type': 'Point', 'coordinates': [18.45404327, -65.97979903]}",[Hashtag(Text='guanchaween')],"18.572,-65.7898,10mi"
+4,2019-11-03 15:34:57,"Annabelle x Leatherface 💘💘❤ A serial killer and a Possess doll the perfect couple 😍😍😍
+
+#guanchaween 2019… https://t.co/blCfxclLOZ","{'type': 'Point', 'coordinates': [18.45404327, -65.97979903]}",[Hashtag(Text='guanchaween')],"18.572,-65.7898,10mi"
+5,2019-11-03 12:06:41,"“Listen to this, Job; stop and consider God’s wonders. Do you know how God controls the clouds and makes his lightn… https://t.co/AH2XMLoSSR",,[],"18.572,-65.7898,10mi"
+6,2019-11-03 04:20:36,"I was Annabelle at #guanchaween 2019 @gasolinadrink PR for #halloween 
+
+#reinapantera #ponce #laguanchaponce… https://t.co/wuyuyyw32Q","{'type': 'Point', 'coordinates': [18.45404327, -65.97979903]}","[Hashtag(Text='guanchaween'), Hashtag(Text='halloween'), Hashtag(Text='reinapantera'), Hashtag(Text='ponce'), Hashtag(Text='laguanchaponce')]","18.572,-65.7898,10mi"
+7,2019-11-03 02:17:45,Torruella... Surviving el Rock Concert! @ VIVO BEACH CLUB https://t.co/cMaHSCUINh,"{'type': 'Point', 'coordinates': [18.44704398, -66.00017309]}",[],"18.572,-65.7898,10mi"
+8,2019-11-03 01:05:44,a blunt by the ocean 🥰🌊🤗 https://t.co/Nrj38QRqA4,,[],"18.572,-65.7898,10mi"
+9,2019-11-03 00:52:57,RocktoberFest! @ VIVO BEACH CLUB https://t.co/Y59AfQE2pL,"{'type': 'Point', 'coordinates': [18.44704398, -66.00017309]}",[],"18.572,-65.7898,10mi"
+10,2019-11-03 00:04:30,Such a good day😊 #playa #correcaminos #PuertoRico #Piñones #alcapurrialover #adominicanintheworld https://t.co/mQgEG1bcOp,,"[Hashtag(Text='playa'), Hashtag(Text='correcaminos'), Hashtag(Text='PuertoRico'), Hashtag(Text='Piñones'), Hashtag(Text='alcapurrialover'), Hashtag(Text='adominicanintheworld')]","18.572,-65.7898,10mi"
+11,2019-11-02 19:34:08,"Here is one beautiful portrait of my friend Dariangeliz 
+
+#PortfolioDay #portraitphotography #model… https://t.co/OfIfQGTazo",,"[Hashtag(Text='PortfolioDay'), Hashtag(Text='portraitphotography'), Hashtag(Text='model')]","18.572,-65.7898,10mi"
+12,2019-11-02 18:06:53,The Atlantic is rolling in on the north coast of Puerto Rico this afternoon https://t.co/mvxe7KCKSA,,[],"18.572,-65.7898,10mi"
+13,2019-11-02 17:58:19,Day 2 afternoon adventures &amp; so much more to explore with Ms. Olivia Lynn in Puerto Rico. @ Escambron Beach https://t.co/Lmk5sdbgzK,"{'type': 'Point', 'coordinates': [18.46613305, -66.08994178]}",[],"18.572,-65.7898,10mi"
+14,2019-11-02 17:23:09,How was your run today? #runchat https://t.co/OiqVNkJG72,,[Hashtag(Text='runchat')],"18.572,-65.7898,10mi"
+0,2019-11-04 02:15:04,"2.3 magnitude #earthquake. 38 km from #Cambria, CA, United States https://t.co/H8S1QlmSRL","{'type': 'Point', 'coordinates': [35.768, -121.412]}","[Hashtag(Text='earthquake'), Hashtag(Text='Cambria')]","35.7545013,-121.4250031,10mi"
+1,2019-11-04 02:15:02,"USGS reports a M2.28 #earthquake 24km NW of San Simeon, CA on 11/4/19 @ 2:12:41 UTC https://t.co/e6TPSEEWeS #quake","{'type': 'Point', 'coordinates': [35.7683334, -121.4123306]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","35.7545013,-121.4250031,10mi"
+2,2019-11-04 02:15:02,"California, United States
+MD 2.3 (2 min ago)
+0km 35.77°N 121.41°W
+Nov 4, 2019 02:12:41 UTC
+#earthquake","{'type': 'Point', 'coordinates': [35.77, -121.41]}",[Hashtag(Text='earthquake')],"35.7545013,-121.4250031,10mi"
+3,2019-11-04 01:07:02,"California, United States
+ML 3.2 (4 min ago)
+3km 35.75°N 121.42°W
+Nov 4, 2019 01:02:47 UTC
+#earthquake https://t.co/A2iVUjQ88N","{'type': 'Point', 'coordinates': [35.75, -121.42]}",[Hashtag(Text='earthquake')],"35.7545013,-121.4250031,10mi"
+4,2019-11-04 01:06:53,"Ml 3.2 earthquake (automatic) occured at 2019-11-04T01:02:47 UTC, 25km WNW of San Simeon, CA https://t.co/jvUQ1XsBSS","{'type': 'Point', 'coordinates': [35.7545013, -121.4250031]}",[],"35.7545013,-121.4250031,10mi"
+5,2019-11-04 01:06:01,"USGS reports a M3.2 #earthquake 25km WNW of San Simeon, CA on 11/4/19 @ 1:02:47 UTC https://t.co/st6inGqD2H #quake","{'type': 'Point', 'coordinates': [35.7545013, -121.4250031]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","35.7545013,-121.4250031,10mi"
+6,2019-11-03 21:13:55,We stumbled across theses Elephant Seals on our way to LA yesterday. As ya do. It’s been amazing seeing some of Ame… https://t.co/hiHDWW8gep,"{'type': 'Point', 'coordinates': [35.66321677, -121.25777306]}",[],"35.7545013,-121.4250031,10mi"
+7,2019-10-28 20:41:28,Me vs. Monday. Come at me bruh 💪⚔️💥 @ San Simeon Elephant Seal Viewpoint https://t.co/FwLktR56la,"{'type': 'Point', 'coordinates': [35.66298573, -121.25735298]}",[],"35.7545013,-121.4250031,10mi"
+8,2019-10-27 20:03:12,Seals! And a few elephant seals @ San Simeon Elephant Seal Viewpoint https://t.co/sdCPjoDIWg,"{'type': 'Point', 'coordinates': [35.66298573, -121.25735298]}",[],"35.7545013,-121.4250031,10mi"
+9,2019-10-26 23:19:20,Elephant seal party (with pelicans in attendance)! @ Elephant Seal Beach https://t.co/62OaeiTn7j,"{'type': 'Point', 'coordinates': [35.683423, -121.286]}",[],"35.7545013,-121.4250031,10mi"
+0,2019-11-04 00:58:01,"USGS reports a M4.1 #earthquake 57km SSW of Bandar-e Lengeh, Iran on 11/4/19 @ 0:45:21 UTC https://t.co/CPy6rFJWJ5 #quake","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.0591,54.7317,10mi"
+1,2019-11-04 00:57:50,"Mb 4.1 earthquake (reviewed) occured at 2019-11-04T00:45:21 UTC, southern Iran https://t.co/LoiURWtX7k","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.0591,54.7317,10mi"
+2,2019-11-04 00:56:15,"M4.1 SOUTHERN IRAN Depth 10.0km Nov 04, 2019 00:45:21 UTC, Nov 04, 2019 04:15:21 at epicenter https://t.co/U5uXoCTX3p","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.0591,54.7317,10mi"
+3,2019-11-04 00:56:15,"【M4.1】SOUTHERN IRAN 10.0km 2019/11/04 09:45:21JST, 2019/11/04 00:45:21UTC
+(G)https://t.co/rt320BfM72 (USGS)https://t.co/RKXflFLCJi","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.0591,54.7317,10mi"
+4,2019-11-04 00:36:02,"USGS reports a M4.2 #earthquake 51km SSW of Bandar-e Lengeh, Iran on 11/4/19 @ 0:18:40 UTC https://t.co/BFomeWXXEU #quake","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.0591,54.7317,10mi"
+5,2019-11-04 00:35:41,"Mb 4.2 earthquake (reviewed) occured at 2019-11-04T00:18:40 UTC, 51km SSW of Bandar-e Lengeh, Iran https://t.co/pWi57FhgKQ","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.0591,54.7317,10mi"
+6,2019-11-04 00:34:35,"M4.2 SOUTHERN IRAN Depth 10.0km Nov 04, 2019 00:18:40 UTC, Nov 04, 2019 03:48:40 at epicenter https://t.co/NLJffEJoGB","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.0591,54.7317,10mi"
+7,2019-11-04 00:34:35,"【M4.2】SOUTHERN IRAN 10.0km 2019/11/04 09:18:40JST, 2019/11/04 00:18:40UTC
+(G)https://t.co/dYAUZubEYm (USGS)https://t.co/I18YiH8Kwv","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.0591,54.7317,10mi"
+8,2019-10-31 16:49:36,Estimated population in the felt area: 3.1 millions inhabitants https://t.co/SmHlbmbTXS,"{'type': 'Point', 'coordinates': [26.04, 54.81]}",[],"26.0591,54.7317,10mi"
+9,2019-10-31 16:49:33,Map of felt reports received so far following the #earthquake M4.9 in Southern Iran 1hr 5min ago https://t.co/IUynSxMavP,"{'type': 'Point', 'coordinates': [26.04, 54.81]}",[Hashtag(Text='earthquake')],"26.0591,54.7317,10mi"
+10,2019-10-31 16:12:36,"Mb 4.9 earthquake (reviewed) occured at 2019-10-31T15:43:59 UTC, 48km SSW of Bandar-e Lengeh, Iran https://t.co/CnswooX7C2","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.0591,54.7317,10mi"
+11,2019-10-31 16:07:02,M4.9 #earthquake (#زلزال) strikes 94 km NW of #`Ajmān (United Arab Emirates) 23 min ago. Read eyewitnesses' stories… https://t.co/mp8X4dtz4k,"{'type': 'Point', 'coordinates': [26.04, 54.81]}","[Hashtag(Text='earthquake'), Hashtag(Text='زلزال')]","26.0591,54.7317,10mi"
+12,2019-10-31 16:05:32,"Mb 4.9 earthquake (reviewed) occured at 2019-10-31T15:43:59 UTC, 48km SSW of Bandar-e Lengeh, Iran https://t.co/CnswooFwds","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.0591,54.7317,10mi"
+13,2019-10-31 16:05:02,"USGS reports a M4.9 #earthquake 48km SSW of Bandar-e Lengeh, Iran on 10/31/19 @ 15:43:59 UTC https://t.co/IJhIR4vWAs #quake","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.0591,54.7317,10mi"
+14,2019-10-31 16:04:48,"M4.9 SOUTHERN IRAN Depth 10.0km Oct 31, 2019 15:43:59 UTC, Oct 31, 2019 19:13:59 at epicenter https://t.co/NxMhVQuxDR","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.0591,54.7317,10mi"
+15,2019-10-31 16:04:48,"【M4.9】SOUTHERN IRAN 10.0km 2019/11/01 00:43:59JST, 2019/10/31 15:43:59UTC
+(G)https://t.co/QGovFyLohI (USGS)https://t.co/RRcS9CkoGb","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.0591,54.7317,10mi"
+16,2019-10-31 16:04:48,"4.9 earthquake, 48km SSW of Bandar-e Lengeh, Iran. 2019-10-31 19:43:59 at epicenter (21m ago, depth 10km). https://t.co/io0YGH1Uny","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.0591,54.7317,10mi"
+17,2019-10-31 15:54:34,Felt #earthquake (#زلزله) M4.9 strikes 57 km S of Bandar-e Lengeh (#Iran) 11 min ago. Please report to:… https://t.co/Lxxbe6m99z,"{'type': 'Point', 'coordinates': [26.07, 54.71]}","[Hashtag(Text='earthquake'), Hashtag(Text='زلزله'), Hashtag(Text='Iran')]","26.0591,54.7317,10mi"
+18,2019-10-31 15:51:28,"【M4.6】SOUTHERN IRAN Depth 10km Oct 31, 2019 15:44:00 UTC (G)https://t.co/NzF89slAu6 (EMSC)https://t.co/sGEEB04ktA","{'type': 'Point', 'coordinates': [26.05, 54.72]}",[],"26.0591,54.7317,10mi"
+0,2019-11-04 00:58:01,"USGS reports a M4.1 #earthquake 57km SSW of Bandar-e Lengeh, Iran on 11/4/19 @ 0:45:21 UTC https://t.co/CPy6rFJWJ5 #quake","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.1262,54.6997,10mi"
+1,2019-11-04 00:57:50,"Mb 4.1 earthquake (reviewed) occured at 2019-11-04T00:45:21 UTC, southern Iran https://t.co/LoiURWtX7k","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.1262,54.6997,10mi"
+2,2019-11-04 00:56:15,"M4.1 SOUTHERN IRAN Depth 10.0km Nov 04, 2019 00:45:21 UTC, Nov 04, 2019 04:15:21 at epicenter https://t.co/U5uXoCTX3p","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.1262,54.6997,10mi"
+3,2019-11-04 00:56:15,"【M4.1】SOUTHERN IRAN 10.0km 2019/11/04 09:45:21JST, 2019/11/04 00:45:21UTC
+(G)https://t.co/rt320BfM72 (USGS)https://t.co/RKXflFLCJi","{'type': 'Point', 'coordinates': [26.0591, 54.7317]}",[],"26.1262,54.6997,10mi"
+4,2019-11-04 00:36:02,"USGS reports a M4.2 #earthquake 51km SSW of Bandar-e Lengeh, Iran on 11/4/19 @ 0:18:40 UTC https://t.co/BFomeWXXEU #quake","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.1262,54.6997,10mi"
+5,2019-11-04 00:35:41,"Mb 4.2 earthquake (reviewed) occured at 2019-11-04T00:18:40 UTC, 51km SSW of Bandar-e Lengeh, Iran https://t.co/pWi57FhgKQ","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.1262,54.6997,10mi"
+6,2019-11-04 00:34:35,"M4.2 SOUTHERN IRAN Depth 10.0km Nov 04, 2019 00:18:40 UTC, Nov 04, 2019 03:48:40 at epicenter https://t.co/NLJffEJoGB","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.1262,54.6997,10mi"
+7,2019-11-04 00:34:35,"【M4.2】SOUTHERN IRAN 10.0km 2019/11/04 09:18:40JST, 2019/11/04 00:18:40UTC
+(G)https://t.co/dYAUZubEYm (USGS)https://t.co/I18YiH8Kwv","{'type': 'Point', 'coordinates': [26.1262, 54.6997]}",[],"26.1262,54.6997,10mi"
+8,2019-10-31 16:49:36,Estimated population in the felt area: 3.1 millions inhabitants https://t.co/SmHlbmbTXS,"{'type': 'Point', 'coordinates': [26.04, 54.81]}",[],"26.1262,54.6997,10mi"
+9,2019-10-31 16:49:33,Map of felt reports received so far following the #earthquake M4.9 in Southern Iran 1hr 5min ago https://t.co/IUynSxMavP,"{'type': 'Point', 'coordinates': [26.04, 54.81]}",[Hashtag(Text='earthquake')],"26.1262,54.6997,10mi"
+10,2019-10-31 16:12:36,"Mb 4.9 earthquake (reviewed) occured at 2019-10-31T15:43:59 UTC, 48km SSW of Bandar-e Lengeh, Iran https://t.co/CnswooX7C2","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.1262,54.6997,10mi"
+11,2019-10-31 16:07:02,M4.9 #earthquake (#زلزال) strikes 94 km NW of #`Ajmān (United Arab Emirates) 23 min ago. Read eyewitnesses' stories… https://t.co/mp8X4dtz4k,"{'type': 'Point', 'coordinates': [26.04, 54.81]}","[Hashtag(Text='earthquake'), Hashtag(Text='زلزال')]","26.1262,54.6997,10mi"
+12,2019-10-31 16:05:32,"Mb 4.9 earthquake (reviewed) occured at 2019-10-31T15:43:59 UTC, 48km SSW of Bandar-e Lengeh, Iran https://t.co/CnswooFwds","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.1262,54.6997,10mi"
+13,2019-10-31 16:05:02,"USGS reports a M4.9 #earthquake 48km SSW of Bandar-e Lengeh, Iran on 10/31/19 @ 15:43:59 UTC https://t.co/IJhIR4vWAs #quake","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","26.1262,54.6997,10mi"
+14,2019-10-31 16:04:48,"M4.9 SOUTHERN IRAN Depth 10.0km Oct 31, 2019 15:43:59 UTC, Oct 31, 2019 19:13:59 at epicenter https://t.co/NxMhVQuxDR","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.1262,54.6997,10mi"
+15,2019-10-31 16:04:48,"【M4.9】SOUTHERN IRAN 10.0km 2019/11/01 00:43:59JST, 2019/10/31 15:43:59UTC
+(G)https://t.co/QGovFyLohI (USGS)https://t.co/RRcS9CkoGb","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.1262,54.6997,10mi"
+16,2019-10-31 16:04:48,"4.9 earthquake, 48km SSW of Bandar-e Lengeh, Iran. 2019-10-31 19:43:59 at epicenter (21m ago, depth 10km). https://t.co/io0YGH1Uny","{'type': 'Point', 'coordinates': [26.1558, 54.6918]}",[],"26.1262,54.6997,10mi"
+17,2019-10-31 15:54:34,Felt #earthquake (#زلزله) M4.9 strikes 57 km S of Bandar-e Lengeh (#Iran) 11 min ago. Please report to:… https://t.co/Lxxbe6m99z,"{'type': 'Point', 'coordinates': [26.07, 54.71]}","[Hashtag(Text='earthquake'), Hashtag(Text='زلزله'), Hashtag(Text='Iran')]","26.1262,54.6997,10mi"
+18,2019-10-31 15:51:28,"【M4.6】SOUTHERN IRAN Depth 10km Oct 31, 2019 15:44:00 UTC (G)https://t.co/NzF89slAu6 (EMSC)https://t.co/sGEEB04ktA","{'type': 'Point', 'coordinates': [26.05, 54.72]}",[],"26.1262,54.6997,10mi"
+0,2019-11-04 00:10:30,"Mb 4.5 earthquake (reviewed) occured at 2019-11-03T23:29:34 UTC, 37km SSE of Calingasta, Argentina https://t.co/KCO4Iqa1N7","{'type': 'Point', 'coordinates': [-31.6274, -69.2145]}",[],"-31.6274,-69.2145,10mi"
+1,2019-11-04 00:03:01,"USGS reports a M4.6 #earthquake 39km SSE of Calingasta, Argentina on 11/3/19 @ 23:29:34 UTC https://t.co/tqZT8mu63e #quake","{'type': 'Point', 'coordinates': [-31.6304, -69.1815]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","-31.6274,-69.2145,10mi"
+2,2019-11-04 00:02:27,"Mb 4.6 earthquake (reviewed) occured at 2019-11-03T23:29:34 UTC, 39km SSE of Calingasta, Argentina https://t.co/KCO4Iqa1N7","{'type': 'Point', 'coordinates': [-31.6304, -69.1815]}",[],"-31.6274,-69.2145,10mi"
+0,2019-11-04 00:21:02,"Alaska, United States of America
+ML 2.5 (80 min ago)
+81km 59.19°N 152.99°W
+Nov 3, 2019 23:00:53 UTC
+#earthquake","{'type': 'Point', 'coordinates': [59.19, -152.99]}",[Hashtag(Text='earthquake')],"59.193999999999996,-152.9916,10mi"
+1,2019-11-03 23:12:06,"Ml 2.5 earthquake (automatic) occured at 2019-11-03T23:00:53 UTC, 92km SW of Anchor Point, Alaska https://t.co/9aMcibjQn9","{'type': 'Point', 'coordinates': [59.1915, -152.9958]}",[],"59.193999999999996,-152.9916,10mi"
+2,2019-11-03 23:10:04,"2.8 magnitude #earthquake. 95km SW of Anchor Point, Alaska https://t.co/NKC11XuGJa","{'type': 'Point', 'coordinates': [59.171, -153.015]}",[Hashtag(Text='earthquake')],"59.193999999999996,-152.9916,10mi"
+3,2019-11-03 23:08:02,"USGS reports a M2.8 #earthquake 95km SW of Anchor Point, Alaska on 11/3/19 @ 23:00:53 UTC https://t.co/LvkbPAYEN1 #quake","{'type': 'Point', 'coordinates': [59.1711, -153.015]}","[Hashtag(Text='earthquake'), Hashtag(Text='quake')]","59.193999999999996,-152.9916,10mi"
+4,2019-11-03 23:07:03,"Ml 2.8 earthquake (automatic) occured at 2019-11-03T23:00:53 UTC, 95km SW of Anchor Point, Alaska https://t.co/9aMcibjQn9","{'type': 'Point', 'coordinates': [59.1711, -153.015]}",[],"59.193999999999996,-152.9916,10mi"
+0,2019-11-03 22:56:59,"Ml 3.4 earthquake (automatic) occured at 2019-11-03T22:42:35 UTC, 27km W of Nikiski, Alaska https://t.co/6v7d5kn2eW","{'type': 'Point', 'coordinates': [60.6647, -151.7932]}",[],"60.6647,-151.7932,10mi"
+1,2019-11-03 22:54:58,"Ml 3.3 earthquake (automatic) occured at 2019-11-03T22:42:35 UTC, 31km WSW of Nikiski, Alaska https://t.co/6v7d5kn2eW","{'type': 'Point', 'coordinates': [60.6244, -151.846]}",[],"60.6647,-151.7932,10mi"
+2,2019-11-03 22:50:56,"Ml 3.4 earthquake (automatic) occured at 2019-11-03T22:42:35 UTC, 31km WSW of Nikiski, Alaska https://t.co/6v7d5kn2eW","{'type': 'Point', 'coordinates': [60.6147, -151.8471]}",[],"60.6647,-151.7932,10mi"
+3,2019-11-03 22:48:55,"Ml 3.4 earthquake (automatic) occured at 2019-11-03T22:42:35 UTC, 30km WSW of Nikiski, Alaska https://t.co/6v7d5kn2eW","{'type': 'Point', 'coordinates': [60.6132, -151.8219]}",[],"60.6647,-151.7932,10mi"
+4,2019-11-03 22:47:03,"Alaska, United States of America
+ML 3.3 (4 min ago)
+70km 60.61°N 151.82°W
+Nov 3, 2019 22:42:35 UTC
+#earthquake https://t.co/ALX9iawTji","{'type': 'Point', 'coordinates': [60.61, -151.82]}",[Hashtag(Text='earthquake')],"60.6647,-151.7932,10mi"
+5,2019-11-03 22:46:54,"Ml 3.3 earthquake (automatic) occured at 2019-11-03T22:42:35 UTC, 30km WSW of Nikiski, Alaska https://t.co/6v7d5kn2eW","{'type': 'Point', 'coordinates': [60.6132, -151.8219]}",[],"60.6647,-151.7932,10mi"
